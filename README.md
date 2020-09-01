@@ -6,3 +6,20 @@ Goal:
 -	Achieve authentication/authorization based on Spring security, Oauth2, Oauth2 client
 -	Understanding microservices architecture using Spring Cloud, Netfllix OSS.
 -	 Demonstration of microservice architecture based on Java and Spring
+
+
+What are Microservices?
+Microservices is a service-oriented architecture pattern where in applications are built as a collection of various smallest independent service units. It is a software engineering approach which focuses on decomposing an application into single-function modules with well-defined interfaces. These modules can be independently deployed and operated by small teams who own the entire lifecycle of the service. 
+The term "micro" refers to the sizing of a microservice which must be manageable by a single development team (5 to 10 developers). In this methodology, big applications are divided into.
+
+
+Technology Stack: 
+1.	Java 8+
+2.	Spring Latest
+3.	Spring security
+4.	Oauth2, Oauth2 Client
+5.	Spring Cloud
+6.	Netflix OSS
+7.	PostgreSQL
+8.	IntliJ
+
