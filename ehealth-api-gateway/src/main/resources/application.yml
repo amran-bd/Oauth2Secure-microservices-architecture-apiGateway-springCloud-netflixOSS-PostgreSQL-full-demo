@@ -1,0 +1,19 @@
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 5000
+hystrix:
+  command:
+    clinic-management-service:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000
+    patient-management-service:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000
